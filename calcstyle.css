@@ -1,0 +1,39 @@
+#display{
+height: 80px;
+width:415px;
+border: 1px solid #EAD8B1;
+background-color: #EAD8B1;
+border-radius: 20px;
+margin-top: 10px;
+font-size: 50px;
+color: black;
+}
+.calc
+{
+height: 600PX;
+width: 425px;
+border: 2px solid black;
+margin: auto;
+background-color: #001F3F;
+padding: 10px;
+border-radius: 10px;
+box-shadow: 5px 5px 5px gray;
+}
+
+button
+{
+height: 80px;
+width: 80px;
+border-radius: 50%;
+background-color: #6A9AB0;
+color: white;
+font-weight: 900px;
+font-size: 40px;
+margin: 10px;
+padding: 3px;
+}
+#isequal
+{
+    width: 190px;
+    border-radius: 0%;
+}
